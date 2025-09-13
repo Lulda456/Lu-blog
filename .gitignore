@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings
+.vscode/
+
+# Jekyll build output
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependencies
+vendor/
+.bundle/
+node_modules/
+
+# Ruby / Bundler
+Gemfile.lock
+
+# Temporary / private
+private/
+*.log
+_site/
